@@ -1,0 +1,8 @@
+INFO: System started successfully.
+WARNING: Low disk space on drive C.
+ERROR: Failed to connect to the database.
+INFO: User login successful.
+ERROR: Timeout while connecting to server.
+WARNING: High memory usage detected.
+INFO: Backup completed.
+ERROR: File not found.
